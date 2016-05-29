@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Della
+bio:                'Mahasiswi Sistem Informasi Fakultas Sains dan Teknologi Universitas Islam Negeri Sulthan Syarif Kasim Riau'
+description:        "Mahasiswi Sistem Informasi Fakultas Sains dan Teknologi Universitas Islam Negeri Sulthan Syarif Kasim Riau"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,8 +39,8 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
-github:             username
+facebook:           dellamaulina
+github:             della5
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
